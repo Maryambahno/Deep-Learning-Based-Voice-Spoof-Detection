@@ -1,0 +1,7 @@
+json
+numpy 
+tensorflow 
+keras
+scikit-learn
+matplotlib
+librosa
