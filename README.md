@@ -52,6 +52,7 @@ Python 3.9+
 Required libraries:
 
 * numpy
+* pandas
 * json
 * tensorflow 
 * scikit-learn
