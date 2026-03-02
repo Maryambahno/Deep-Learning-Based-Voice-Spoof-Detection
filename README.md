@@ -52,8 +52,8 @@ Python 3.9+
 Required libraries:
 
 * numpy
-* pandas
-* tensorflow / keras
+* json
+* tensorflow 
 * scikit-learn
 * matplotlib
 * librosa
