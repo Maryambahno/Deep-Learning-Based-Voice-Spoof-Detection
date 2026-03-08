@@ -1,0 +1,28 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Large model files
+*.h5
+
+# Large zip files
+*.zip
+
+# Dataset / audio folders
+audio/
+LA/
+0/
+1/
+
+# Optional large json/output files
+preprocessed_mfcc_data1.json
+
+# VS Code settings
+.vscode/
